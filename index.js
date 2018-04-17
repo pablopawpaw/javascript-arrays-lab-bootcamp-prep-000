@@ -7,6 +7,9 @@ destructivelyAppendKitten(name)
 destructivelyPrependKitten(name)
 
 
+destructivelyRemoveLastKitten()
+
+
 
 
 ["Philadelphia", ...cities]
